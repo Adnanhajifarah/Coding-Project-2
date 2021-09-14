@@ -5,6 +5,7 @@ Write a program that calculates a car’s gas mileage. The program should ask th
 to:
 
 ● enter the number of gallons of gas the car can hold
+
 ● The number of miles that the car can be driven on a full tank
 
 It should then display the number of miles that may be driven per gallon of gas.
@@ -16,6 +17,7 @@ Area = 2 π r h+2 π r ^ 2
 The program should ask the user to:
 
 ● Enter the radius of the cylinder
+
 ● Enter the height of the cylinder
 
 It should then display the surface area of the cylinder.
