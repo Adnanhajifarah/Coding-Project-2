@@ -44,13 +44,10 @@ should display two numbers to be added (given by the user) such as:
 
 247
 +127
-____
 
 The program should pause while the student works on the problem. When the student is
 ready to check the answer, they can press a key and the program will display the
 correct solution.
 
 247
-+127
-____
-376
++127=376
