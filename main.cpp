@@ -64,14 +64,15 @@ cout<<endl<<"You ate "<< cal <<" calories."<<endl;
   cout<<endl<<"type in the second number"<<endl;
   cin>>b;
   /*Display the equation and pause for the user to do the math*/
-cout<<endl<<setw(4)<<a<<endl<<setw(4)<<b<<endl<<setw(4)<<"+___"<<endl;
+cout<<endl<<setw(4)<<a<<endl<<"+"<<setw(3)<<b<<endl<<setw(4)<<"___"<<endl;
 char ent;
 cout<<endl<<"press enter when you are ready to see the answer"<<endl<<endl;
+cin.ignore();
 cin.get(ent);
 int ans=a + b;
 cout<<endl<<setw(4)<<a;
-cout<<endl<<setw(4)<<b;
-cout<<endl<<setw(4)<<"+___";
+cout<<endl<<"+"<<setw(3)<<b;
+cout<<endl<<setw(4)<<"___";
 cout<<endl<<setw(4)<<ans<<endl;
   
 }
