@@ -51,3 +51,31 @@ correct solution.
 
 247
 +127=376
+
+1. Given the following uber eats order, tax, and tip, I want you to display
+the results as a receipt.
+
+Item 1: Burger: $13.88
+Item 2: Wings: $10.39
+Item 3: Sprite: $3.49
+Tax: $2.97
+Service Fee: $4.16
+Delivery Fee: $1.49
+Tip: $6.54
+
+Receipt
+-----------------------------------------------------------------------------------------------
+- Burger $13.88 -
+- Wings $10.39 -
+- Sprite $3.49 -
+- -
+- -
+- Tax $2.97 -
+- Service Fee $4.16 -
+- Delivery Fee $1.49 -
+- Tip $6.54 -
+- -
+- -
+- Total -
+- $42.92 -
+-------------------------------------------------------------------------------------------------
